@@ -1,2 +1,2 @@
-# Logismart_Wordpress_Theme
-Logismart Custom Wordpress Theme
+# Basic_Generic_Wordpress_Theme
+Basic Generic Custom Wordpress Theme
